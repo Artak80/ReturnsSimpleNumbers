@@ -1,4 +1,4 @@
-# Library-Figure
+# ReturnsSimpleNumbers
 
 Введите число, которое выведет первые простые числа.
 
